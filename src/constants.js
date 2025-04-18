@@ -1,0 +1,11 @@
+export const DB_NAME = "LMS"
+export const JSONDATA_LIMIT = "16kb"
+export const URLDATA_LIMIT = "16kb"
+export const USER_ROLES = ['ADMIN','MEMBER']
+export const MEMBERSHIP_STATUS = ['ACTIVE','INACTIVE','DEFAULTER']
+export const USER_RESULT_PER_PAGE = 10
+export const BOOK_GENRE = ["COMEDY","THRILLER","SCIENCE","MYSTERY","FICTION","NON_FICTION"]
+export const BOOK_RESULT_PER_PAGE = 10
+export const ISSUE_TRANSACTION_TYPE = ["PENDING","ISSUED","RETURNED"]
+export const ALL_ISSUE_RESULT_PER_PAGE = 10
+export const SINGLE_USER_ISSUE_RESULT_PER_PAGE = 10
