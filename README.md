@@ -104,5 +104,4 @@ Once the server is running, you can interact with the API using tools like Postm
 - **PUT /api/v1/issue/renew-issue:** Renew a book
 - **PUT /api/v1/issue/return:** Return a book
 
-## Contact
-For questions or support, please contact [subhamdutta460@gmail.com](mailto:subhamdutta460@gmail.com).
+
