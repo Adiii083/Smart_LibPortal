@@ -8,7 +8,7 @@
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contact](#contact)
+
 
 ## Introduction
 The Library Management System Server is a backend application designed to manage library operations, including book inventory, user accounts, borrowing, and returning books. This server provides a RESTful API for interacting with the system.
